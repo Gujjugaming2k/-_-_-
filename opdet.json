@@ -1,12 +1,17 @@
 {
-  "latestVersion": "3.0",
-  "latestVersionCode": "4",
-  "url": "",
+  "latestVersion": "4.0",
+  "latestVersionCode": "5",
+  "url": "https://www.flixtv.xyz/flixtvapk",
   "releaseNotes": [
-    "- Complete New UI",
-    "- Added Various Movie & Series Server",
-    "- Added Multiple Video & Audio Quality Support",
-    "- Added Subtitle Support",
-    "- Added Dedicated Music Section"
+    "- Added DD Dolby 5.1 Audio Support",
+    "- Added Most Demanded Feature - Continue Watching (Watch History)",
+    "- Added Notification For Ongoing Downloads",
+    "- Fixed Brightness & Volume Control in Player",
+    "- Added Custom Subtitle Input Option",
+    "- New UI in Music Section",
+    "- Improved Search",
+    "- Added Ability To Delete Favourites From Favourites Screen",
+    "- PIP Mode Fixed",
+    "- Fixed Player Resume On Pause",
   ]
 }
